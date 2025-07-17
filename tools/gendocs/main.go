@@ -424,7 +424,6 @@ func (*endpointProcessor) clearAnnotations() error {
 // @contact.email aistore@nvidia.com
 // @license.name MIT
 // @license.url https://github.com/NVIDIA/aistore/blob/main/LICENSE
-// @host localhost:8080
 // @BasePath /v1
 // Generated endpoint documentation
 
